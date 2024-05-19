@@ -1,0 +1,145 @@
+.menu ul {
+text-align:center; 
+padding-top:20px;
+padding-bottom:20px;
+text-decoration:non;
+}
+  .menu li {
+  display:inline-block;
+  text-align:center;
+  }
+  .menu li a{ 
+  display:inline-block;
+  height:auto;
+  width:150px;
+  color: ghostwhite;
+ padding:10px;
+ margin:4px;
+ text-align:center;
+ font-size:18px;
+ font-weight:bold;
+ text-decoration:none;
+ border-radius:4px;} 
+ .menu li a{
+ background-color:#98AFC7;}
+
+body{
+           background-color:"#CCE5FF"
+}
+p{
+    text-align:"center"
+}
+body{
+          color:"#003366;
+}
+body{
+          font-family:"Arial" sans-serif;
+}
+h1 {
+  color: #003366;
+  font-weight: bold;
+  font-size: 30px;
+}
+.menu {
+  background-color:#2B547E;
+  overflow: auto;
+}
+.main h2 {
+  overflow: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  padding: 10px;
+  background-color:#41627E;
+  color:#000000;
+  font-weight: bold;
+  text-align: center;
+  border-radius:40px;
+}
+.photos {
+  overflow: auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #E6FFFF;
+}
+ .photos img {
+  border-style: solid;
+  border-width: 2px; 
+  border-color: #426C35;
+  border-radius: 6px;
+  margin: 2px;
+  
+}
+.photos {
+  overflow: auto;
+  background-color: #CFECEC;
+}
+.photos h2 {
+  color:#ffffff;
+}
+.main { 
+  overflow: auto;
+  text-align: center;
+  background-color: #0000FF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  overflow: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #777777;
+}
+
+.main { 
+  overflow: auto;
+  text-align: center;
+  background-color:#D3D3D3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.footer {
+  overflow: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color:#182851;
+}
+.footer ul {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.footer li { 
+  display: inline-block;
+  text-align: center;
+}
+.footer li a {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  color: #49558D;
+  background-color: #EAEAEA;
+  padding: 10px;
+  margin: 4px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.footer li a hover {
+  background-color: #77918E
+}
+.footer h2{
+  color: #FFFFFF;
+}
+.footer p {
+  color: #FFFFFF;
+}
